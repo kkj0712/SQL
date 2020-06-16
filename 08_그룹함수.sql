@@ -19,7 +19,7 @@ FROM employees;
 SELECT MAX(hire_date), MIN(hire_date)
 FROM employees;
 
---SUM, AVG : 합계와 평균 (숫자만 가능)
+--SUM, AVG : 합계와 평균 (숫자만 가능) 
 SELECT SUM(salary), AVG(salary)
 FROM employees;
 
