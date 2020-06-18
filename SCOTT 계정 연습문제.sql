@@ -209,7 +209,7 @@ FROM emp
 GROUP BY deptno;
 
 --문제 40
-SELECT e.ename, e.deptno, d.dname,
+SELECT e.ename, e.deptno,
 DECODE(e.deptno, '10', '총무부',
                  '20', '개발부',
                  '30', '영업부') 부서명
