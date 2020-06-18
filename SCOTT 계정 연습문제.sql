@@ -1,7 +1,7 @@
 --문제 1
 SELECT empno, ename, sal
 FROM emp
-WHERE deptno=10;
+WHERE deptno=10; 
 
 --문제 2
 SELECT ename, hiredate, deptno 
