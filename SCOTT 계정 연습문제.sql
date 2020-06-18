@@ -8,7 +8,7 @@ SELECT ename, hiredate, deptno
 FROM emp
 WHERE empno = 7369;
 
---문제 3
+--문제 3 
 SELECT *
 FROM emp e
 WHERE e.ename='ALLEN';
