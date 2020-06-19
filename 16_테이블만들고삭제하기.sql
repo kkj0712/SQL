@@ -25,6 +25,6 @@ CREATE TABLE sample_product (
      menu_date DATE DEFAULT sysdate);
     
 SELECT * FROM sample_product;
-
+ 
 DROP TABLE sample_product;
 DESC sample_product;
