@@ -15,3 +15,4 @@
 + 12_INSERT
 + 13_UPDATE
 + 14_DELETE
++ 15_데이터타입
