@@ -14,3 +14,4 @@
 + 11_집합연산자
 + 12_INSERT
 + 13_UPDATE
++ 14_DELETE
